@@ -1,0 +1,16 @@
+[
+  {
+    "UserId": "c1273ac7-e1d7-4a11-bce0-40c4f5627123",
+    "Name": "ADMIN",
+    "LastName": "ADMIN",
+    "Email": "ADMIN",
+    "Password": "f227730e30dcc494f0647523513c68e71edf4ddf3dc209929cde19b3bb08fc20"
+  },
+  {
+    "UserId": "b0d48581-c182-4524-8544-74a76d6ca956",
+    "Name": "veronica",
+    "LastName": "guaman",
+    "Email": "veronica@gmail.com",
+    "Password": "3e098eff11e61de3641a43b8d7714f45c04964731e0312b3c1e75f17408d8b2d"
+  }
+]

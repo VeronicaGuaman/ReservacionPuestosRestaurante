@@ -1,0 +1,12 @@
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.csprojAssemblyReference.cache
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\bin\Debug\netstandard2.0\CoWorkingApp.Data.deps.json
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\bin\Debug\netstandard2.0\CoWorkingApp.Data.dll
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\bin\Debug\netstandard2.0\CoWorkingApp.Data.pdb
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\bin\Debug\netstandard2.0\CoWorkingApp.Models.dll
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\bin\Debug\netstandard2.0\CoWorkingApp.Models.pdb
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.csproj.CopyComplete
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.dll
+C:\Users\Toshiba\Documents\CoWorkingApp\CoWorkingApp.Data\obj\Debug\netstandard2.0\CoWorkingApp.Data.pdb

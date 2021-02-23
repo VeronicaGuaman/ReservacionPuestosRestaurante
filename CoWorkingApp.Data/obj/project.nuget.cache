@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Emr70m2k1HdiKvNAVHPARpzfEPVomxCm/2GhYVbfQZLIkoEZDbRvkOA9EEquGiWsAparHFvwcRulqjPQeGhiNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\CoWorkingApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

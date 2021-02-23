@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFBti3qCw2axePiRehmUAZYMh+5b+qfkThDBUyCTxaszD+DoDAZ1acaOOO783R0XsFaBi47neM7jiLgHu930ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.App\\CoWorkingApp.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

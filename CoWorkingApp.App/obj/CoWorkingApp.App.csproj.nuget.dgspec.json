@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.App\\CoWorkingApp.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.App\\CoWorkingApp.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.App\\CoWorkingApp.App.csproj",
+        "projectName": "CoWorkingApp.App",
+        "projectPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.App\\CoWorkingApp.App.csproj",
+        "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\CoWorkingApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\CoWorkingApp.Data.csproj"
+              },
+              "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\CoWorkingApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\CoWorkingApp.Data.csproj",
+        "projectName": "CoWorkingApp.Data",
+        "projectPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\CoWorkingApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj",
+        "projectName": "CoWorkingApp.Models",
+        "projectPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\CoWorkingApp.Models.csproj",
+        "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toshiba\\Documents\\CoWorkingApp\\CoWorkingApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
